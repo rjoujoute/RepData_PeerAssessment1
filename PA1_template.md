@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 title: "Reproducible Research Peer Assessment 1"
 author: "Rodney Joujoute"
-date: "January 16, 2015"
+date: "February 14, 2015"
 output: html_document
 ---
 # Peer Assessment 1
